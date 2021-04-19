@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Web and Network Projects. 
 - 🤔 I’m looking for help with Backend Development 😅
 - ⚡ Fun fact: I don't use Arch btw.
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: linkedin.com/in/mukul-malviya-182a59129/
 
 <!--
 **mukulmalviya/mukulmalviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
