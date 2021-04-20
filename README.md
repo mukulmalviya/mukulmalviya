@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome to my github, feel free to browse 
+### Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
 
 - 🌱 I’m currently learning MERN dev stack.
 - 👯 I’m looking to collaborate on Web and Network Projects. 
