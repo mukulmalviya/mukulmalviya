@@ -1,9 +1,8 @@
 ### Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
 
-- 🌱 I’m currently learning MERN dev stack.
+- 🌱 I’m currently learning Web development.
 - 👯 I’m looking to collaborate on Web and Network Projects. 
-- 🤔 I’m looking for help with Backend Development 😅
-- ⚡ Fun fact: I don't use Arch btw.
+- 🤔 I’m looking for help with Backend stack. 😅
 - 📫 How to reach me: www.linkedin.com/in/mukul-malviya-182a59129/
 
 <!--
