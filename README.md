@@ -1,9 +1,9 @@
 ### Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
 
 - 🔭 Self-taught programmer.
-- 🌱 I’m currently learning Web development. (Express and Mongo)
-- 👯 I’m looking to collaborate on Web and Network Projects. 
-- 🤔 I’m looking for help with Backend stack. 😅
+- 🌱 I’m currently learning Web development. (Express, Mongo, ES6)
+- 👯 I’m looking to collaborate on WebDev Projects. 
+- 🤔 I’m looking for help with Frontend stack. (React)
 - 📫 How to reach me: www.linkedin.com/in/mukul-malviya-182a59129/
 
 <!--
