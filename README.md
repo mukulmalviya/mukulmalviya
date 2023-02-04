@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web development. (Express, Mongo, ES6)
 - 👯 I’m looking to collaborate on WebDev Projects. 
 - 🤔 I’m looking for help with Frontend stack. (React)
-- 📫 How to reach me: www.linkedin.com/in/mukul-malviya-182a59129/
+- 📫 How to reach me: https://www.linkedin.com/in/mukulmalviya5/
 
 <!--
 **mukulmalviya/mukulmalviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
