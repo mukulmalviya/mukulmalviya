@@ -1,6 +1,8 @@
 ### Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
 
-- 🔭 Self-taught programmer.
+- 🎯 Self-taught programmer.
+- 🏢 I work on Python projects.
+- 🔭 I’m currently working on python backend project.
 - 📫 How to reach me: https://www.linkedin.com/in/mukulmalviya5/
 
 <!--
