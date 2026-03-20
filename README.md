@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
 
 - 🏢 I work on Python projects.
-- 🔭 I’m currently working on Building test frameworks.
+- 🔭 I’m currently exploring AI Agents and MCP servers.
 - 📫 How to reach me: https://www.linkedin.com/in/mukulmalviya5/
 
 <!--
