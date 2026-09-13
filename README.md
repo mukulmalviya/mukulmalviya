@@ -1,6 +1,6 @@
-# Hi there 👋, Welcome to my github, feel free to browse and reachout to me @ linkedin.
+# Hi there 👋, Welcome to my github
 
-- 📫 How to reach me: https://www.linkedin.com/in/mukulmalviya5/
+🖇️ https://www.linkedin.com/in/mukulmalviya5/
 
 <!--
 **mukulmalviya/mukulmalviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
